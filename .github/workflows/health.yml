@@ -1,0 +1,25 @@
+name: Catalog staging health
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: staging-health
+  cancel-in-progress: false
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Fetch the pinned monitoring source
+        run: |
+          git init .
+          git remote add origin https://github.com/chezzdev/macbook-catalog-monitor.git
+          git fetch --depth 1 origin "$GITHUB_SHA"
+          git checkout --detach FETCH_HEAD
+      - name: Check availability and independently dated data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node monitor.mjs
