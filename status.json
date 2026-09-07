@@ -1,5 +1,28 @@
 {
-  "checkedAt": "2026-09-07T15:22:38.496Z",
-  "ready": false,
-  "error": "HTTP 503"
+  "checkedAt": "2026-09-07T15:26:12.643Z",
+  "ready": true,
+  "releaseId": "7f8624e8f895985f1bfa01140919ad883bebed5e",
+  "markets": [
+    {
+      "marketId": "es",
+      "ready": true,
+      "inventoryCheckedAt": "2026-09-07T15:19:51.852Z",
+      "pricesCheckedAt": "2026-09-07T15:20:53.920Z",
+      "fxCheckedAt": "2026-09-07T15:19:51.852Z"
+    },
+    {
+      "marketId": "sg",
+      "ready": true,
+      "inventoryCheckedAt": "2026-09-07T15:19:52.471Z",
+      "pricesCheckedAt": "2026-09-07T15:20:41.510Z",
+      "fxCheckedAt": "2026-09-07T15:25:40.364Z"
+    },
+    {
+      "marketId": "us",
+      "ready": true,
+      "inventoryCheckedAt": "2026-09-07T15:19:54.075Z",
+      "pricesCheckedAt": "2026-09-07T15:23:42.332Z",
+      "fxCheckedAt": "2026-09-07T15:19:54.075Z"
+    }
+  ]
 }
