@@ -1,26 +1,26 @@
 {
-  "checkedAt": "2026-09-07T15:26:12.643Z",
+  "checkedAt": "2026-09-08T01:14:06.626Z",
   "ready": true,
-  "releaseId": "7f8624e8f895985f1bfa01140919ad883bebed5e",
+  "releaseId": "7d6afb4a7346352bcada2bee2c23c4399ca75cdc",
   "markets": [
     {
       "marketId": "es",
       "ready": true,
-      "inventoryCheckedAt": "2026-09-07T15:19:51.852Z",
+      "inventoryCheckedAt": "2026-09-08T00:37:21.561Z",
       "pricesCheckedAt": "2026-09-07T15:20:53.920Z",
       "fxCheckedAt": "2026-09-07T15:19:51.852Z"
     },
     {
       "marketId": "sg",
       "ready": true,
-      "inventoryCheckedAt": "2026-09-07T15:19:52.471Z",
-      "pricesCheckedAt": "2026-09-07T15:20:41.510Z",
+      "inventoryCheckedAt": "2026-09-08T00:31:40.658Z",
+      "pricesCheckedAt": "2026-09-07T17:16:24.490Z",
       "fxCheckedAt": "2026-09-07T15:25:40.364Z"
     },
     {
       "marketId": "us",
       "ready": true,
-      "inventoryCheckedAt": "2026-09-07T15:19:54.075Z",
+      "inventoryCheckedAt": "2026-09-08T00:40:50.958Z",
       "pricesCheckedAt": "2026-09-07T15:23:42.332Z",
       "fxCheckedAt": "2026-09-07T15:19:54.075Z"
     }
