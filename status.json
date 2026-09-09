@@ -1,28 +1,5 @@
 {
-  "checkedAt": "2026-09-09T01:16:24.603Z",
-  "ready": true,
-  "releaseId": "350b6d44aae8161f31ec8af3bdeb6013358aff74",
-  "markets": [
-    {
-      "marketId": "es",
-      "ready": true,
-      "inventoryCheckedAt": "2026-09-08T23:44:17.762Z",
-      "pricesCheckedAt": "2026-09-08T15:21:54.285Z",
-      "fxCheckedAt": "2026-09-08T19:45:16.296Z"
-    },
-    {
-      "marketId": "sg",
-      "ready": true,
-      "inventoryCheckedAt": "2026-09-09T01:13:24.851Z",
-      "pricesCheckedAt": "2026-09-08T17:18:07.435Z",
-      "fxCheckedAt": "2026-09-08T19:45:16.628Z"
-    },
-    {
-      "marketId": "us",
-      "ready": true,
-      "inventoryCheckedAt": "2026-09-09T00:57:15.790Z",
-      "pricesCheckedAt": "2026-09-08T15:25:27.782Z",
-      "fxCheckedAt": "2026-09-08T19:45:16.799Z"
-    }
-  ]
+  "checkedAt": "2026-09-09T11:30:25.622Z",
+  "ready": false,
+  "error": "HTTP 503"
 }
