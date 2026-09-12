@@ -1,49 +1,49 @@
 {
-  "checkedAt": "2026-09-11T01:09:37.095Z",
+  "checkedAt": "2026-09-12T01:10:57.588Z",
   "ready": true,
   "releaseId": "9e692ee24d026700489843f8a5a7a7fb4d304c6e",
   "markets": [
     {
       "marketId": "de",
       "ready": true,
-      "inventoryCheckedAt": "2026-09-11T00:16:32.174Z",
-      "pricesCheckedAt": "2026-09-10T06:18:28.073Z",
-      "fxCheckedAt": "2026-09-10T06:15:19.106Z"
+      "inventoryCheckedAt": "2026-09-12T00:16:36.903Z",
+      "pricesCheckedAt": "2026-09-11T06:20:19.583Z",
+      "fxCheckedAt": "2026-09-11T06:15:19.132Z"
     },
     {
       "marketId": "es",
       "ready": true,
-      "inventoryCheckedAt": "2026-09-11T00:46:35.423Z",
-      "pricesCheckedAt": "2026-09-10T15:30:21.836Z",
-      "fxCheckedAt": "2026-09-10T19:45:16.365Z"
+      "inventoryCheckedAt": "2026-09-12T00:46:38.461Z",
+      "pricesCheckedAt": "2026-09-11T15:31:44.919Z",
+      "fxCheckedAt": "2026-09-11T19:45:16.610Z"
     },
     {
       "marketId": "fr",
       "ready": true,
-      "inventoryCheckedAt": "2026-09-11T00:16:34.166Z",
-      "pricesCheckedAt": "2026-09-10T06:18:37.984Z",
-      "fxCheckedAt": "2026-09-10T06:15:19.681Z"
+      "inventoryCheckedAt": "2026-09-12T00:16:38.146Z",
+      "pricesCheckedAt": "2026-09-11T06:20:21.767Z",
+      "fxCheckedAt": "2026-09-11T06:15:19.900Z"
     },
     {
       "marketId": "sg",
       "ready": true,
-      "inventoryCheckedAt": "2026-09-10T23:27:42.566Z",
-      "pricesCheckedAt": "2026-09-10T18:21:27.069Z",
-      "fxCheckedAt": "2026-09-10T19:45:16.800Z"
+      "inventoryCheckedAt": "2026-09-11T23:36:46.336Z",
+      "pricesCheckedAt": "2026-09-11T18:22:31.948Z",
+      "fxCheckedAt": "2026-09-11T19:45:16.860Z"
     },
     {
       "marketId": "uk",
       "ready": true,
-      "inventoryCheckedAt": "2026-09-11T00:16:30.912Z",
-      "pricesCheckedAt": "2026-09-10T06:18:50.963Z",
-      "fxCheckedAt": "2026-09-10T06:15:20.267Z"
+      "inventoryCheckedAt": "2026-09-12T00:16:34.542Z",
+      "pricesCheckedAt": "2026-09-11T06:19:54.068Z",
+      "fxCheckedAt": "2026-09-11T06:15:20.369Z"
     },
     {
       "marketId": "us",
       "ready": true,
-      "inventoryCheckedAt": "2026-09-10T23:49:16.080Z",
-      "pricesCheckedAt": "2026-09-10T18:29:15.732Z",
-      "fxCheckedAt": "2026-09-10T19:45:16.887Z"
+      "inventoryCheckedAt": "2026-09-11T23:49:20.169Z",
+      "pricesCheckedAt": "2026-09-11T18:30:45.809Z",
+      "fxCheckedAt": "2026-09-11T19:45:17.361Z"
     }
   ]
 }
