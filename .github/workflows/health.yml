@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '17 * * * *'
   workflow_dispatch:
+    inputs:
+      notification_test:
+        description: 'TEST only: fail a separate job without changing catalog health'
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -10,6 +15,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   health:
+    if: inputs.notification_test != true
     runs-on: ubuntu-latest
     timeout-minutes: 2
     steps:
@@ -23,3 +29,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: node monitor.mjs
+  notification-test:
+    if: inputs.notification_test == true
+    name: 'TEST notification delivery (intentional failure)'
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+    permissions: {}
+    steps:
+      - name: 'TEST only: create a failed check for the owner'
+        run: |
+          echo 'TEST notification delivery. The catalog has not been checked or changed.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'This is an intentional notification test, not a real catalog incident.'
+          exit 1
