@@ -1,5 +1,49 @@
 {
-  "checkedAt": "2026-10-04T13:15:38.592Z",
-  "ready": false,
-  "error": "HTTP 503"
+  "checkedAt": "2026-10-04T21:33:46.749Z",
+  "ready": true,
+  "releaseId": "d6c19a7a9a0250516c40639b9fa71c046c3f812c",
+  "markets": [
+    {
+      "marketId": "de",
+      "ready": true,
+      "inventoryCheckedAt": "2026-10-04T20:50:57.077Z",
+      "pricesCheckedAt": "2026-10-04T12:51:32.307Z",
+      "fxCheckedAt": "2026-10-04T06:15:19.824Z"
+    },
+    {
+      "marketId": "es",
+      "ready": true,
+      "inventoryCheckedAt": "2026-10-04T21:08:26.315Z",
+      "pricesCheckedAt": "2026-10-04T15:57:38.579Z",
+      "fxCheckedAt": "2026-10-04T19:45:18.399Z"
+    },
+    {
+      "marketId": "fr",
+      "ready": true,
+      "inventoryCheckedAt": "2026-10-04T21:25:39.894Z",
+      "pricesCheckedAt": "2026-10-04T08:53:56.639Z",
+      "fxCheckedAt": "2026-10-04T06:15:20.890Z"
+    },
+    {
+      "marketId": "sg",
+      "ready": true,
+      "inventoryCheckedAt": "2026-10-04T20:30:20.031Z",
+      "pricesCheckedAt": "2026-10-04T18:48:12.819Z",
+      "fxCheckedAt": "2026-10-04T19:45:19.436Z"
+    },
+    {
+      "marketId": "uk",
+      "ready": true,
+      "inventoryCheckedAt": "2026-10-04T21:08:31.413Z",
+      "pricesCheckedAt": "2026-10-04T08:27:08.683Z",
+      "fxCheckedAt": "2026-10-04T06:15:23.972Z"
+    },
+    {
+      "marketId": "us",
+      "ready": true,
+      "inventoryCheckedAt": "2026-10-04T20:00:40.766Z",
+      "pricesCheckedAt": "2026-10-04T19:00:45.189Z",
+      "fxCheckedAt": "2026-10-04T19:45:18.594Z"
+    }
+  ]
 }
