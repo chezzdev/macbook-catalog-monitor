@@ -1,49 +1,49 @@
 {
-  "checkedAt": "2026-10-11T18:07:30.938Z",
+  "checkedAt": "2026-10-12T01:22:35.088Z",
   "ready": true,
   "releaseId": "d6c19a7a9a0250516c40639b9fa71c046c3f812c",
   "markets": [
     {
       "marketId": "de",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-11T16:51:18.819Z",
+      "inventoryCheckedAt": "2026-10-12T00:51:20.147Z",
       "pricesCheckedAt": "2026-10-11T12:51:46.291Z",
       "fxCheckedAt": "2026-10-11T06:15:20.057Z"
     },
     {
       "marketId": "es",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-11T17:10:17.026Z",
+      "inventoryCheckedAt": "2026-10-12T01:10:24.415Z",
       "pricesCheckedAt": "2026-10-11T15:57:53.209Z",
-      "fxCheckedAt": "2026-10-10T19:45:18.658Z"
+      "fxCheckedAt": "2026-10-11T19:45:18.700Z"
     },
     {
       "marketId": "fr",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-11T18:04:36.810Z",
+      "inventoryCheckedAt": "2026-10-12T00:04:38.979Z",
       "pricesCheckedAt": "2026-10-11T08:57:08.187Z",
       "fxCheckedAt": "2026-10-11T06:15:21.125Z"
     },
     {
       "marketId": "sg",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-11T16:25:38.447Z",
-      "pricesCheckedAt": "2026-10-10T18:48:24.071Z",
-      "fxCheckedAt": "2026-10-10T19:45:20.198Z"
+      "inventoryCheckedAt": "2026-10-12T00:25:44.696Z",
+      "pricesCheckedAt": "2026-10-11T18:48:25.713Z",
+      "fxCheckedAt": "2026-10-11T19:45:20.290Z"
     },
     {
       "marketId": "uk",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-11T17:09:14.261Z",
+      "inventoryCheckedAt": "2026-10-12T01:09:15.731Z",
       "pricesCheckedAt": "2026-10-11T08:28:22.393Z",
       "fxCheckedAt": "2026-10-11T06:15:25.000Z"
     },
     {
       "marketId": "us",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-11T18:02:06.243Z",
-      "pricesCheckedAt": "2026-10-10T19:00:53.556Z",
-      "fxCheckedAt": "2026-10-10T19:45:18.849Z"
+      "inventoryCheckedAt": "2026-10-12T00:02:06.528Z",
+      "pricesCheckedAt": "2026-10-11T19:00:53.906Z",
+      "fxCheckedAt": "2026-10-11T19:45:18.888Z"
     }
   ]
 }
