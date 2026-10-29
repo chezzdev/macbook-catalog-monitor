@@ -1,0 +1,13 @@
+{
+  "staging": {
+    "service": "macbook-catalog-staging",
+    "origin": "https://macbook-catalog-staging.chezzdev.workers.dev",
+    "indexable": false
+  },
+  "production": {
+    "service": "macbook-catalog",
+    "origin": "https://macbook-catalog.chezzdev.workers.dev",
+    "indexable": true,
+    "approvedMarkets": ["de", "es", "fr", "sg", "uk", "us"]
+  }
+}

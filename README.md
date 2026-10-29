@@ -1,11 +1,11 @@
-# MacBook catalog staging monitor
+# MacBook catalog production monitor
 
-Hourly independent check of the public Cloudflare staging service and inventory,
+Hourly independent check of the public Cloudflare production service and inventory,
 exact-new-price and exchange-rate freshness. The workflow runs on GitHub's
 standard Ubuntu runner. It makes no Apple requests and holds no Cloudflare token.
 
-[Staging](https://macbook-catalog-staging.chezzdev.workers.dev/) ·
-[Operations](https://macbook-catalog-staging.chezzdev.workers.dev/ops/) ·
+[Catalog](https://macbook-catalog.chezzdev.workers.dev/) ·
+[Operations](https://macbook-catalog.chezzdev.workers.dev/ops/) ·
 [Workflow runs](https://github.com/chezzdev/macbook-catalog-monitor/actions/workflows/health.yml)
 
 A failed check makes the workflow fail after three bounded attempts. GitHub's
@@ -25,3 +25,6 @@ metadata. No artifacts or caches are uploaded.
 The reviewed source is maintained in the application's `staging/monitor/`
 directory. Deploying the application does not silently rewrite this repository.
 To stop this monitor, disable the workflow in GitHub Actions.
+
+The workflow sets `MACBOOK_ENVIRONMENT=production`. Environment identity is pinned
+in `config/server-environments.json`; the program is `staging/monitor/monitor.mjs`.
