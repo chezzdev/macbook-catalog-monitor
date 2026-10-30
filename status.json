@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T18:54:57.147Z",
+  "checkedAt": "2026-10-30T01:59:31.963Z",
   "origin": "https://macbook-catalog.chezzdev.workers.dev",
   "ready": true,
   "releaseId": "2a3547a63f02901e483ccbabc7a137d089d7a91b",
@@ -7,44 +7,44 @@
     {
       "marketId": "de",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-29T18:52:07.181Z",
+      "inventoryCheckedAt": "2026-10-30T01:25:55.430Z",
       "pricesCheckedAt": "2026-10-29T12:52:08.454Z",
       "fxCheckedAt": "2026-10-29T06:15:20.708Z"
     },
     {
       "marketId": "es",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-29T18:52:07.535Z",
+      "inventoryCheckedAt": "2026-10-30T00:20:49.996Z",
       "pricesCheckedAt": "2026-10-29T15:58:27.281Z",
-      "fxCheckedAt": "2026-10-28T19:45:20.282Z"
+      "fxCheckedAt": "2026-10-29T19:45:20.330Z"
     },
     {
       "marketId": "fr",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-29T18:52:08.470Z",
+      "inventoryCheckedAt": "2026-10-30T00:20:50.375Z",
       "pricesCheckedAt": "2026-10-29T08:57:37.018Z",
       "fxCheckedAt": "2026-10-29T06:15:22.286Z"
     },
     {
       "marketId": "sg",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-29T18:52:08.432Z",
+      "inventoryCheckedAt": "2026-10-30T00:20:51.337Z",
       "pricesCheckedAt": "2026-10-29T14:54:58.546Z",
-      "fxCheckedAt": "2026-10-28T19:45:22.712Z"
+      "fxCheckedAt": "2026-10-29T19:45:22.832Z"
     },
     {
       "marketId": "uk",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-29T18:52:08.399Z",
+      "inventoryCheckedAt": "2026-10-30T00:20:51.948Z",
       "pricesCheckedAt": "2026-10-29T08:28:56.091Z",
       "fxCheckedAt": "2026-10-29T06:15:25.948Z"
     },
     {
       "marketId": "us",
       "ready": true,
-      "inventoryCheckedAt": "2026-10-29T18:53:42.781Z",
-      "pricesCheckedAt": "2026-10-28T19:01:11.148Z",
-      "fxCheckedAt": "2026-10-28T19:45:21.098Z"
+      "inventoryCheckedAt": "2026-10-30T00:51:55.625Z",
+      "pricesCheckedAt": "2026-10-29T19:01:12.583Z",
+      "fxCheckedAt": "2026-10-29T19:45:21.142Z"
     }
   ]
 }
