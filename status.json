@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-25T04:55:23.252Z",
+  "checkedAt": "2026-11-26T00:28:38.488Z",
   "origin": "https://macbook-catalog.chezzdev.workers.dev",
   "ready": true,
   "releaseId": "2a3547a63f02901e483ccbabc7a137d089d7a91b",
@@ -7,44 +7,44 @@
     {
       "marketId": "de",
       "ready": true,
-      "inventoryCheckedAt": "2026-11-25T04:21:34.885Z",
-      "pricesCheckedAt": "2026-11-24T12:52:33.787Z",
-      "fxCheckedAt": "2026-11-24T06:15:21.629Z"
+      "inventoryCheckedAt": "2026-11-26T00:21:39.121Z",
+      "pricesCheckedAt": "2026-11-25T12:52:34.873Z",
+      "fxCheckedAt": "2026-11-25T06:15:21.663Z"
     },
     {
       "marketId": "es",
       "ready": true,
-      "inventoryCheckedAt": "2026-11-25T04:24:05.629Z",
-      "pricesCheckedAt": "2026-11-24T15:59:11.551Z",
-      "fxCheckedAt": "2026-11-24T19:45:25.385Z"
+      "inventoryCheckedAt": "2026-11-26T00:24:09.469Z",
+      "pricesCheckedAt": "2026-11-25T15:59:13.411Z",
+      "fxCheckedAt": "2026-11-25T19:45:25.575Z"
     },
     {
       "marketId": "fr",
       "ready": true,
-      "inventoryCheckedAt": "2026-11-25T04:23:01.977Z",
-      "pricesCheckedAt": "2026-11-24T08:58:08.078Z",
-      "fxCheckedAt": "2026-11-24T06:15:23.424Z"
+      "inventoryCheckedAt": "2026-11-26T00:23:06.479Z",
+      "pricesCheckedAt": "2026-11-25T08:58:09.031Z",
+      "fxCheckedAt": "2026-11-25T06:15:23.454Z"
     },
     {
       "marketId": "sg",
       "ready": true,
-      "inventoryCheckedAt": "2026-11-25T04:54:50.558Z",
-      "pricesCheckedAt": "2026-11-24T14:55:35.595Z",
-      "fxCheckedAt": "2026-11-24T19:45:28.420Z"
+      "inventoryCheckedAt": "2026-11-25T22:36:10.149Z",
+      "pricesCheckedAt": "2026-11-25T14:55:37.318Z",
+      "fxCheckedAt": "2026-11-25T19:45:28.637Z"
     },
     {
       "marketId": "uk",
       "ready": true,
-      "inventoryCheckedAt": "2026-11-25T04:22:15.080Z",
-      "pricesCheckedAt": "2026-11-24T08:29:23.799Z",
-      "fxCheckedAt": "2026-11-24T06:15:26.718Z"
+      "inventoryCheckedAt": "2026-11-26T00:22:17.320Z",
+      "pricesCheckedAt": "2026-11-25T08:29:25.554Z",
+      "fxCheckedAt": "2026-11-25T06:15:26.741Z"
     },
     {
       "marketId": "us",
       "ready": true,
-      "inventoryCheckedAt": "2026-11-25T04:52:22.331Z",
-      "pricesCheckedAt": "2026-11-24T19:01:39.882Z",
-      "fxCheckedAt": "2026-11-24T19:45:25.380Z"
+      "inventoryCheckedAt": "2026-11-25T22:36:08.713Z",
+      "pricesCheckedAt": "2026-11-25T19:01:41.213Z",
+      "fxCheckedAt": "2026-11-25T19:45:25.579Z"
     }
   ]
 }
